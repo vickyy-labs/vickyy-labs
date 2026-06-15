@@ -33,7 +33,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Https://www.linkedin.com/in/vikash-kanaujiya-80527b386?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vikash Kanaujiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikashkanavjiya@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Https://www.linkedin.com/in/vikash-kanaujiya-80527b386?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikashkanavjiya@gmail.com) 
 
 
 # 📊 GitHub Stats:
