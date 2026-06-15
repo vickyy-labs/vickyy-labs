@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vikash Kanaujiya</h1>
-<h3 align="center">Full Stack Software Engineer | Backend Systems & AI Integrations</h3>
+<h4 align="center">Systems Engineer | Java, Spring Boot, Microservices & GenAI</h4>
 
-<p align="center">
-  Engineering scalable distributed backend systems using Java, Spring Boot, and Microservices. I specialize in bridging robust backend architectures with modern frontend interfaces, while actively exploring Generative AI integrations.
-</p>
+<br/>
 
----
+### 👨‍💻 Quick Intro
+I build distributed backend systems using **Java & Spring Boot** and bridge them with modern **React** interfaces. Currently exploring how to integrate **LLMs (LangChain/Pinecone)** into enterprise architectures.
 
-### 👨‍💻 About Me:
-- 🚀 **Core Focus:** Building production-grade backend applications and microservices using **Java, Spring Boot, and Docker**.
-- 🧠 **AI Integration:** Exploring how to inject LLMs (Large Language Models) and AI agents into enterprise backend pipelines using Python and LangChain.
-- 💻 **Frontend Capability:** Developing interactive UI components and consuming APIs efficiently using **React.js & React Native**.
-- ⚙️ **Currently Building:** A Distributed AI Expense Tracker utilizing Kafka for async messaging, MySQL, Docker containers, and Spring Security (JWT).
-- 🤝 **Looking to Collaborate:** Open for roles in Backend Development and Full Stack Engineering.
+### ⚙️ What I Do
+- **Backend & Cloud:** Architecting RESTful APIs, securing them with JWT, and containerizing via **Docker**.
+- **Data & Events:** Designing async pipelines using **Apache Kafka** and **MySQL**.
+- **Frontend:** Building functional UIs with **React.js & TailwindCSS**.
 
----
+### 🚀 Currently Building
+- **AI-Driven Expense Orchestrator:** A microservices project parsing unstructured data via GenAI, streaming events via Kafka, and routing traffic through Kong API Gateway.
 
 ### 🛠️ Tech Stack:
 
