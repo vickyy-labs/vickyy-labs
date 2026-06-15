@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikash Kanaujiya</h1>
-<h4 align="center">Systems Engineer | Java, Spring Boot, Microservices & GenAI</h4>
+<h3 align="center">Full Stack Engineer | Java, Spring Boot, React & GenAI</h3>
+
+<p align="center">
+  Building scalable distributed microservices and modern web interfaces. Currently developing a Kafka & LLM-based Expense Orchestrator.
+</p>
 
 <br/>
 
-### 👨‍💻 Quick Intro
-I build distributed backend systems using **Java & Spring Boot** and bridge them with modern **React** interfaces. Currently exploring how to integrate **LLMs (LangChain/Pinecone)** into enterprise architectures.
 
-### ⚙️ What I Do
-- **Backend & Cloud:** Architecting RESTful APIs, securing them with JWT, and containerizing via **Docker**.
-- **Data & Events:** Designing async pipelines using **Apache Kafka** and **MySQL**.
-- **Frontend:** Building functional UIs with **React.js & TailwindCSS**.
-
-### 🚀 Currently Building
-- **AI-Driven Expense Orchestrator:** A microservices project parsing unstructured data via GenAI, streaming events via Kafka, and routing traffic through Kong API Gateway.
 
 ### 🛠️ Tech Stack:
 
